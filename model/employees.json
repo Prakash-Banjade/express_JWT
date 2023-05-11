@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "firstName" : "Prakash",
+        "lastName" : "Banjade",
+        "role" : "CTO"
+    },
+    {
+        "id" : 2,
+        "firstName" : "Shiva",
+        "lastName" : "Pandey",
+        "role" : "Director of Engineering"
+    },
+    {
+        "id": 3,
+        "firstName" : "Dave",
+        "lastName" : "Gray",
+        "role" : "CEO"
+    },
+    {
+        "id" : 4,
+        "firstName" : "Harish Ali",
+        "lastName" : "Khan",
+        "role" : "Senior Advisor"
+    }
+]
